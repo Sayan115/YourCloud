@@ -9,8 +9,10 @@ YourCloud: A straightforward Android weather app that fetches real-time weather 
 <a href="https://drive.google.com/file/d/1C7Ym_QAN-4akSba0yabcNXI8OqZ9GK2B/view?usp=sharing"> <i>Click here to download</i></a>
 
 # Screenshots
-### A complete list of all your local music tracks
+### Simple and Straight-forward UI; Just provide a valid city name and the rest is on the app 
 <p align="center">
-  <img src="" height="450" width="220">
-
+    <img src="img1.png" height="230" width="450" >
+    <img src="img2.png" height="230" width="450">
+    <img src="img.png" height="230" width="450">
+    
 </p>
