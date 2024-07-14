@@ -1,9 +1,9 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0662a3&text=YourCloud&textBg=false&reversal=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:A82DA8&text=YourCloud&reversal=true&fontColor=fff"/>
 </p>
 
 # Overview
-YourCloud: A straightforward Android weather app that fetches real-time weather data for any city. Clean design, easy-to-use interface.
+A straight forward Android weather app that fetches real-time weather data for any city. Clean design, easy-to-use interface. Thus, simplifying your weather-checking experience.🌥
 
 # Download APK
 <a href="https://drive.google.com/file/d/1C7Ym_QAN-4akSba0yabcNXI8OqZ9GK2B/view?usp=sharing"> <i>Click here to download</i></a>
