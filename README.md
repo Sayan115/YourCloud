@@ -13,6 +13,9 @@ YourCloud: A straightforward Android weather app that fetches real-time weather 
 <p align="center">
     <img src="img1.png" height="230" width="450" >
     <img src="img2.png" height="230" width="450">
-    <img src="img.png" height="230" width="450">
+    <video  controls><source src="https://github.com/user-attachments/assets/e48f7507-daf1-4982-85ca-a0a577541dc9"  /></video>
     
+https://github.com/user-attachments/assets/e48f7507-daf1-4982-85ca-a0a577541dc9
+
+
 </p>
