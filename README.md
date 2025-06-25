@@ -6,7 +6,9 @@
 A straight forward Android weather app that fetches real-time weather data for any city. Clean design, easy-to-use interface. Thus, simplifying your weather-checking experience.🌥
 
 # Download APK
-<a href="https://drive.google.com/file/d/1C7Ym_QAN-4akSba0yabcNXI8OqZ9GK2B/view?usp=sharing"> <i>Click here to download</i></a>
+<a href="https://i.loadly.io/mn2Kdfpe"> <i>Click here to download from Loadly.io</i></a>
+##### OR
+<a href="https://drive.google.com/file/d/1C7Ym_QAN-4akSba0yabcNXI8OqZ9GK2B/view?usp=sharing"> <i>Click here to download from Google Drive</i></a>
 
 # Screenshots
 ### Simple and Straight-forward UI; Just provide a valid city name and the rest is on the app 
